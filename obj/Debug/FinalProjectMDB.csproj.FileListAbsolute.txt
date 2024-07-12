@@ -1,0 +1,291 @@
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\mongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\DnsClient.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\SharpCompress.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Snappier.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Buffers.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Memory.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.AccessControl.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.Permissions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\ZstdSharp.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.Core.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\DnsClient.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\Snappier.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Buffers.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Memory.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.AccessControl.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.Permissions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\FinalProjectMDB.csproj.AssemblyReference.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\WindowsFormsApp1.MainAppWin.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\FinalProjectMDB.csproj.GenerateResource.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\FinalProjectMDB.csproj.CoreCompileInputs.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\FinalProjectMDB.csproj.CopyComplete
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB\obj\Debug\WindowsFormsApp1.UpdateAndDeleteTeam.resources
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\mongocrypt.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.exe
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\DnsClient.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Bson.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\SharpCompress.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Snappier.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Buffers.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Memory.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.AccessControl.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.Permissions.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\ZstdSharp.dll
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.pdb
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\DnsClient.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Bson.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\Snappier.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Buffers.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Memory.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.AccessControl.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.Permissions.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.AssemblyReference.cache
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.MainAppWin.resources
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.UpdateAndDeleteTeam.resources
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.GenerateResource.cache
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.CoreCompileInputs.cache
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.CopyComplete
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.exe
+C:\Users\oriac\source\repos\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\mongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\DnsClient.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Bson.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\SharpCompress.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Snappier.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Buffers.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Memory.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.AccessControl.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.Permissions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\ZstdSharp.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\DnsClient.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Bson.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\Snappier.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Buffers.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Memory.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.AccessControl.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.Permissions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.AssemblyReference.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.MainAppWin.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.UpdateAndDeleteTeam.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.GenerateResource.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.CoreCompileInputs.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\FinalProjectMDB.csproj.CopyComplete
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\FinalProjectMDB_new\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\mongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\DnsClient.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Bson.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\SharpCompress.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Snappier.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Buffers.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Memory.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Permissions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\ZstdSharp.dll
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\DnsClient.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Bson.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Snappier.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Buffers.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Memory.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Permissions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.AssemblyReference.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.MainAppWin.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.UpdateAndDeleteTeam.resources
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.GenerateResource.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.CoreCompileInputs.cache
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.CopyComplete
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.exe
+C:\Users\סער\OneDrive\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\mongocrypt.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.exe
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\DnsClient.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Bson.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\SharpCompress.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Snappier.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Buffers.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Memory.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.AccessControl.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Permissions.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\ZstdSharp.dll
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.pdb
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.Core.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\DnsClient.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Bson.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\Snappier.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Buffers.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Memory.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.AccessControl.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Permissions.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.AssemblyReference.cache
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.MainAppWin.resources
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.UpdateAndDeleteTeam.resources
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.GenerateResource.cache
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.CoreCompileInputs.cache
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\FinalProjectMDB.csproj.CopyComplete
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.exe
+C:\Users\סער\Personal\לימודי הנדסאים טכניון\שנה ב\סמסטר ב\MongoDB\Projects\Football_Managment\obj\Debug\WindowsFormsApp1.pdb
